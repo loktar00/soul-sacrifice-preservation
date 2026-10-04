@@ -1,0 +1,13 @@
+[
+ {
+  "scene": "bu_pla_16a_e0100",
+  "set": {
+   "PlayerInfo[0]/position.x": "0.000000",
+   "PlayerInfo[0]/position.z": "0.000000",
+   "PlayerInfo[0]/rotation.y": "45.000000",
+   "PlayerInfo[1]/position.x": "1.500000",
+   "PlayerInfo[1]/position.z": "1.500000",
+   "PlayerInfo[1]/rotation.y": "45.000000"
+  }
+ }
+]

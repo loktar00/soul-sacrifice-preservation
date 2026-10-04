@@ -1,0 +1,13 @@
+diff --git a/vita3k/emuenv/include/emuenv/state.h b/vita3k/emuenv/include/emuenv/state.h
+index 6e5ff7f..97b4312 100644
+--- a/vita3k/emuenv/include/emuenv/state.h
++++ b/vita3k/emuenv/include/emuenv/state.h
+@@ -145,7 +145,7 @@ public:
+     uint32_t current_fps_offset = 0;
+     uint32_t ms_per_frame = 0;
+     renderer::Backend backend_renderer{};
+-    RendererPtr renderer{};
++    RendererPtr renderer;
+     std::unique_ptr<renderer::VulkanDeviceInfo> vulkan_device_info;
+     bool drop_inputs{};
+     MemState &mem;

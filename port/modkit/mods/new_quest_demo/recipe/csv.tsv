@@ -1,0 +1,2 @@
+# new quest = q_e0001 (same map ST16A, same bosses) with its own spawn scene
+clone	q_e0001	q_x0001	PlayerInfo=bu_pla_x0001

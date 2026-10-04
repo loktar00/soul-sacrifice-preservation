@@ -1,0 +1,7 @@
+{
+  "name": "new_quest_demo",
+  "author": "",
+  "description": "Adds quest q_x0001 (clone of q_e0001 with its own player-spawn scene). Recipe only: no game files inside.",
+  "version": "0.1.0",
+  "slot": 1
+}
